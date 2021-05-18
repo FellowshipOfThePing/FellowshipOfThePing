@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I’m Jeremy! 👋
 
-<!--
-**FellowshipOfThePing/FellowshipOfThePing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔗 Huge Software/UX Nerd
+- 📙 CS @ Oregon State + Audio @ Ithaca College
+- ⏩ Incoming: Software engineer @ [Sellerant.io](https://sellerant.io)
+- ⏪ Previously: Co-founded trymeasure.com & Corvallis Off Campus
+- 🌱 Love music, kayaking, learning, & building
+- 📍 Seattle, WA
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me:**
+- [jeremybinder.dev](http://jeremybinder.dev)
+- [`@Threee_Rings` on Twitter](https://twitter.com/Threee_Rings)
+- [`LinkedIn`](https://www.linkedin.com/in/jeremy-binder/)

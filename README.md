@@ -2,7 +2,7 @@
 
 - 🔗 Software/UX Nerd
 - 📙 CS @ Oregon State + Audio @ Ithaca College
-- ⏩ Incoming: Software engineer @ [Sellerant.io](https://sellerant.io)
+- ⏩ Currently: Software engineer @ [Sellerant.io](https://sellerant.io)
 - ⏪ Previously: Co-founded trymeasure.com & Corvallis Off Campus
 - 🌱 Love music, kayaking, learning, & building
 - 📍 Seattle, WA

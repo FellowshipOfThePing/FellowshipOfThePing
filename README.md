@@ -10,5 +10,5 @@
 
 **Reach me:**
 - [jeremybinder.dev](http://jeremybinder.dev)
-- [Twitter](https://twitter.com/Threee_Rings)
+- [Twitter](https://twitter.com/0xBinder)
 - [LinkedIn](https://www.linkedin.com/in/jeremy-binder/)

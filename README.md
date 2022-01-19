@@ -10,5 +10,5 @@
 
 **Reach me:**
 - [jeremybinder.dev](http://jeremybinder.dev)
-- [Twitter](https://twitter.com/0xBinder)
+- [Twitter](https://twitter.com/GenericTechBro)
 - [LinkedIn](https://www.linkedin.com/in/jeremy-binder/)

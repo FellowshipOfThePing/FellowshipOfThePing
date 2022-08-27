@@ -5,7 +5,7 @@
 - ⏪ Previously: Co-founded [trymeasure.com](https://jeremybinder.dev/portfolio/measure) & [Corvallis Off Campus](https://jeremybinder.dev/portfolio/corvallis)
 - 📙 CS @ Oregon State + Audio @ Ithaca College
 - 🌱 Love music, kayaking, learning, & building
-- 📍 Seattle, WA
+- 📍 New York, NY
 
 
 **Reach me:**
